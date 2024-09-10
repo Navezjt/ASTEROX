@@ -2211,7 +2211,5 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin79BtPX-5ngTJGcJdPMNmeZrGnOKItjtdK45NFSZFE9FGrju5rUQJcjEGznRWBHlOK7ZL9mjHENWk_oj9Npq_2H8ZxMqipjLdLw_WxoTHj24CFwQg-m_M3qEWWks0H75xQ7p5f-MJGzwisu77aLQLiL0PNnVoAHxR77KuK5socJUj5Ery7MvNgA8wdycM/s340/antv.png" group-title="INDONESIA GO", ANTV 
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibfhRuzYFazwEZlQUODDZDJGhLxRFea_Xefy9dfjz8on2NvjxyTDYLQX6FyLWKHP9zrEepwmNSkj7p3-H1A1VV89gQtBB7Vx8NBGMmOz2_b8dg6XwgA1Qrom5bEYEaTUyHNOfki0CAv8c4ql6bU7fnycJobQRZDCrEBHEk44l16zXHrR3E2Vz49ZwYlBGL/s340/indosiar.png" group-title="INDONESIA GO", INDOSIAR 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6 
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibfhRuzYFazwEZlQUODDZDJGhLxRFea_Xefy9dfjz8on2NvjxyTDYLQX6FyLWKHP9zrEepwmNSkj7p3-H1A1VV89gQtBB7Vx8NBGMmOz2_b8dg6XwgA1Qrom5bEYEaTUyHNOfki0CAv8c4ql6bU7fnycJobQRZDCrEBHEk44l16zXHrR3E2Vz49ZwYlBGL/s340/indosiar.png" group-title="INDONESIA GO", INDOSIAR #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 

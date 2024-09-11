@@ -50,10 +50,17 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 #EXTINF:-1 tvg-id="AstroArenaBola2" group-title="🇲🇾 SPORTS (ASTRO GO)" ch-number="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png",804 Astro Arena Bola 2
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="🇲🇾 SPORTS (ASTRO GO)",Astro SuperSport HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XTTVaRFU1T1RJdE1ESXpOaTAwTWprNExXRXhaamt0WmpGaE0yVmpORGRpTmpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjYyNTE1MSwiaWF0IjoxNzI2MDIxMTUxfQ.cnLK1yP6OCKq1wRxHvXPpt4oXm3JqaHnmmyGlp9_qFc"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="🇲🇾 SPORTS (ASTRO GO)",Astro Supersport HD
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+
+
 
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tWTVaR1E1T0RJdE5UZzNOQzAwWVRsbUxUazRNVEV0TXpkbFpXRXpPV1E0WmpVdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjQ4NzU4NCwiaWF0IjoxNzI1ODgzNTg0fQ.PsaUI_vHCB_qZ7JdbyCSEP3RDud7MfN8Z3fhK5GETrw"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -63,19 +70,19 @@ https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebpla
 https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="🇲🇾 SPORTS (ASTRO GO)",Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XTTVaRFU1T1RJdE1ESXpOaTAwTWprNExXRXhaamt0WmpGaE0yVmpORGRpTmpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjYyNTE1MSwiaWF0IjoxNzI2MDIxMTUxfQ.cnLK1yP6OCKq1wRxHvXPpt4oXm3JqaHnmmyGlp9_qFc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="🇲🇾 SPORTS (ASTRO GO)",Astro Supersport 3 
+https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="🇲🇾 SPORTS (ASTRO GO)",Astro Supersport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
-
-
-
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive

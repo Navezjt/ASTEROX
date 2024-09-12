@@ -2263,7 +2263,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="🇲🇾 RIA WARNA & PRIMA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",108 Astro Citra ( OFF )
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="🇲🇾 RIA WARNA & PRIMA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",108 Astro Citra ( otw )
+https://linears-playback.astro.com.my/vsg/41RnEdDC4lAGBIZrX7W0fEeHyQYKu2cSNcTmfb79GOYrw=G_rB/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=7c4ef1cdccd2a971d0b6291433a4e0b7&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-773ca369-581e-44e7-b0da-62e9d5376a55&optin=true&hhid=c0785f1d83768592467c9597a9ebd876&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES%2CALL&daiEnabled=true
 #http://31.42.187.37:25461/watchpad13158/1234/11497
 ##https://tv.jnda.tech/hxr/1obq8t2/l.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd

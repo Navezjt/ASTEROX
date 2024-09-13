@@ -2171,15 +2171,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 ===========================
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="105" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",DRAMA SANGAT
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/hdntl=exp=1726292758~acl=%2f*~data=hdntl~hmac=b2f6f84847b4fc6ef50f2d28daae8f2d135be4f94fb8c4f7b1f306dd09fef634/index.m3u8
-https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/hdntl=exp=1726292758~acl=%2f*~data=hdntl~hmac=b2f6f84847b4fc6ef50f2d28daae8f2d135be4f94fb8c4f7b1f306dd09fef634/index.m3u8
+https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/hdntl=exp=1726305326~acl=%2f*~data=hdntl~hmac=d39f18dffa5c584b97bae55d6e195e1c153dcf3107fabf80e4cb8096fb134107/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linears-playback.astro.com.my/vsg/41Zql5ajkPvjBQ8DoMTWoFvQiACSzNYRfxMAjo36O6XL8=XM-R/dash-wv/jitp-linearwm/1004

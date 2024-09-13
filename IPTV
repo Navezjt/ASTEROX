@@ -59,7 +59,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="ASTRO SUPERSPORT" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO SUPERSPORT HD
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="ASTRO SUPERSPORT" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO SUPERSPORT 
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tWTVaR1E1T0RJdE5UZzNOQzAwWVRsbUxUazRNVEV0TXpkbFpXRXpPV1E0WmpVdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjQ4NzU4NCwiaWF0IjoxNzI1ODgzNTg0fQ.PsaUI_vHCB_qZ7JdbyCSEP3RDud7MfN8Z3fhK5GETrw"}

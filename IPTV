@@ -2112,7 +2112,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 https://linears-playback.astro.com.my/vsg/41RnEdDC4lAGBIZrX7W0fEeHyQYKu2cSNcTmfb79GOYrw=G_rB/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=7c4ef1cdccd2a971d0b6291433a4e0b7&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-773ca369-581e-44e7-b0da-62e9d5376a55&optin=true&hhid=c0785f1d83768592467c9597a9ebd876&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES%2CALL&daiEnabled=true
 #http://31.42.187.37:25461/watchpad13158/1234/11497
 ##https://tv.jnda.tech/hxr/1obq8t2/l.mpd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2124,7 +2124,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
 #EXTINF:-1 tvg-id="106.AstroPrima" group-title="🇲🇾 RIA WARNA & PRIMA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",PRIMA HD (lagg )
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default.mpd
+
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -2184,7 +2184,7 @@ https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/hdntl=exp=172629275
 #https://9nmy.short.gy/1004.mpd
 #https://tv.jnda.tech/hxr/9u9k4t/l.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgSRiGR3BsJHZzGRYJz0tAno=1PRB/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash

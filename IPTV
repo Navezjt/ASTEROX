@@ -2080,15 +2080,14 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
 =========================================
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJraWQiOiIzMzQzYjhiYi03ODRmLTQ4YWQtYjk1ZC0yZTUxZTA2YTc5YzIiLCJqa3UiOiJodHRwczovL3NnLXNnLXNnLmFzdHJvLmNvbS5teTo5NDQzL29hdXRoMi9qd2tzP2tpZD0zMzQzYjhiYi03ODRmLTQ4YWQtYjk1ZC0yZTUxZTA2YTc5YzIiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3MjYzMjM4NDMsInN1YiI6Ijg0MDc4MDkwIiwiYXVkIjoiaXZwLnNlc3Npb25ndWFyZCIsImV4cCI6MTcyNjMzNDY0Mywic2Vzc2lvbl9kYXRhIjp7InNlc3Npb24iOnsiZGV2SWQiOiI4NDA3ODA5MC5kNjJkY2I2Yi02YzQwLTQwOTQtYjE5Zi1kNDY2ZWQ3YzBiMmYiLCJndWVzdE1vZGUiOmZhbHNlLCJoaElkIjoiODQwNzgwOTAiLCJidXNVbml0SWQiOiJBU1RSTyJ9fSwiZGV2aWNlRnVsbFR5cGUiOiJCcm93c2VyLURlZmF1bHQiLCJzY29wZSI6ImJyb3dzZSBwbGF5YmFjayIsInRva2VuX3R5cGUiOiJhY2Nlc3NfdG9rZW4iLCJzc2FfanRpIjoiYnJvd3NlciIsImNsaWVudF9pZCI6ImJyb3dzZXIiLCJqdGkiOiJiNWNjYjJmZS04ZGUyLTRkNzctODVhNC02MzJiM2QyMmMzM2EifQ.Lxac9Vo-kNuYOh6zu0G1wb6Dv-sKyMu-m1eReQ6dYDRXHr2r8SD4u82FV0v1z4rkl32cg-WMen_22hWwsTGOX-ZKlLUuDf-4klfJk9QUtZJAUB-KSex0XiAgCk3XpHUFb5kZjvFF6DZ4jBSEb9M_A2Q_bp8Y7bAKI7SUCRBot5NJ4bELknHtIhYE81oervyuMDxgVX_hW4YFknSDOk7KW-7nuMbATvIUsj4vSRBwnRKkbdqeNm3ptbWbYieBk62xwyLzQjqNo8IPUsTrUNwI5nQq1posjjuJa4kyhf-Z8yTvVmPrQ7CenVKaFvQT7vrbBvRvYQYrteVsUS5Kqn6Ixw
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" group-title="🇲🇾 RIA WARNA & PRIMA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",104 Astro Ria HD ( lagg )
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
-
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2108,7 +2107,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-##EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="🇲🇾 RIA WARNA & PRIMA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",108 Astro Citra ( otw1 )
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="🇲🇾 RIA WARNA & PRIMA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",108 Astro Citra ( otw1 )
 https://linears-playback.astro.com.my/vsg/41RnEdDC4lAGBIZrX7W0fEeHyQYKu2cSNcTmfb79GOYrw=G_rB/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=7c4ef1cdccd2a971d0b6291433a4e0b7&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-773ca369-581e-44e7-b0da-62e9d5376a55&optin=true&hhid=c0785f1d83768592467c9597a9ebd876&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES%2CALL&daiEnabled=true
 #http://31.42.187.37:25461/watchpad13158/1234/11497
 ##https://tv.jnda.tech/hxr/1obq8t2/l.mpd

@@ -2174,7 +2174,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 #EXTINF:-1 tvg-id="105" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="🇲🇾 MADANI (ASTRO GO)",DRAMA SANGAT
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/TEST%20M3U
+#https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/TEST%20M3U
 #https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=1726350989~hmac=f7d3e3b61ca1080a4142b6f7ae48f36f82de150f1019d2f66bff96fe19d104bd
 #https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/hdntl=exp=1726292758~acl=%2f*~data=hdntl~hmac=b2f6f84847b4fc6ef50f2d28daae8f2d135be4f94fb8c4f7b1f306dd09fef634/1726212237995.ts
 https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=1726350989~hmac=f7d3e3b61ca1080a4142b6f7ae48f36f82de150f1019d2f66bff96fe19d104bd

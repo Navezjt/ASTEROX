@@ -2203,7 +2203,11 @@ https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTINF:-1 tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KITA.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MADANI (ASTRO GO)",KITA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 
-#EXTINF:-1 group-title="TEST VOD TONTON" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png" ch-number="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuOHaXUbywIoJRY2lQLtuJ_wEFfxB1e-jUGxHHlp9ke4rKnaYMbgEHQ9KbaB9U4BYshFoUix6-VsKp8296CGBJIWTBVYvo_LHz7kO52CAuFpN5KA83om1yHheViVVlBYCxN4x2Q7VJnJiS_hUlY5cVzc6Guje5nhpxpaD8swAurMJTRuPPCgfMbCh35czP/s16000/TAUBATKU.webp",TAUBATKU
+#EXTINF:-1 group-title="🇲🇾 VOD TONTON" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/TONTON.jpg" ch-number="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuOHaXUbywIoJRY2lQLtuJ_wEFfxB1e-jUGxHHlp9ke4rKnaYMbgEHQ9KbaB9U4BYshFoUix6-VsKp8296CGBJIWTBVYvo_LHz7kO52CAuFpN5KA83om1yHheViVVlBYCxN4x2Q7VJnJiS_hUlY5cVzc6Guje5nhpxpaD8swAurMJTRuPPCgfMbCh35czP/s16000/TAUBATKU.webp",TAUBATKU
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
 https://tonton-vod.akamaized.net/vod/379/6465766/playlist_wifi_high.m3u8?&hdnts=exp=1726359766~hmac=1ee6397638c31070fbfe4281b319b66dc492fb45d8ab768126fc5fbc8b6b4d34
+
+#EXTINF:-1 group-title="🇲🇾 VOD TONTON" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/TONTON.jpg" ch-number="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEijLeqJGuh0k7HbG7Jv7pQgdAInY2BgHStxk8etoREWSDjHpDd4G_fCLq_R_G2VcIJ9vQ4McmNIHBv3UBVs1MTNY1QpTbL8zscldQgKA9VF68ZjYjiTZdKE_7Kwxu2AxDnuwuZcGdA4rIjr0pG5hhhpLfCmrbvNoczal1Su4Rlb-8Fs2vGOWyYQn7J2sw=s16000",MR MAID SUAMI IBU
+#EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
+https://tonton-vod.akamaized.net/vod/379/6422640/playlist_wifi_high.m3u8?&hdnts=exp=1726361140~hmac=1b562c25bc966f1e407b257b68b235215c3e2d46922ccb7155a384503fca6a10
 

@@ -395,6 +395,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="TV3" ch-number="103" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-name="TV3" group-title="🇲🇾 MADANI (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
 
 ##EXTINF:-1 tvg-id="TV3" ch-number="103" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-name="TV3" group-title="🇲🇾 MADANI (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 FHD Source 2
@@ -2082,15 +2083,12 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=41Zql5ajkPvjBQ8DoMTWoFvQiACSzNYRfxMAjo36O6XL8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 ##EXTINF:-1 tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" group-title="🇲🇾 RIA WARNA & PRIMA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",104 Astro Ria HD ( lagg )
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
-#http://31.42.187.37:25461/watchpad13158/1234/11485
-##https://ktpremium.com:443/N197NGF/8199/912833
-##https://tv.jnda.tech/hxr/9u9k4t/l.mpd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2098,8 +2096,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-##EXTINF:-1 tvg-id="AstroWarna" tvg-name="WARNA HD" group-title="🇲🇾 RIA WARNA & PRIMA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",107 Astro Warna ( lagg )
-http://31.42.187.37:25461/watchpad13158/1234/11487
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="WARNA HD" group-title="🇲🇾 MADANI (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",ASTRO WARNA HD
+https://bstvcdn.ballbar.net/Warna/playlist-15.m3u8a?t=1726322533&token=55fd29ab8f625c3164b310f99265e66c
 https://tv.jnda.tech/hxr/1d0euu1/l.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
@@ -2113,7 +2111,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 https://linears-playback.astro.com.my/vsg/41RnEdDC4lAGBIZrX7W0fEeHyQYKu2cSNcTmfb79GOYrw=G_rB/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=7c4ef1cdccd2a971d0b6291433a4e0b7&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-773ca369-581e-44e7-b0da-62e9d5376a55&optin=true&hhid=c0785f1d83768592467c9597a9ebd876&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES%2CALL&daiEnabled=true
 #http://31.42.187.37:25461/watchpad13158/1234/11497
 ##https://tv.jnda.tech/hxr/1obq8t2/l.mpd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2123,9 +2121,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 ##EXTINF:-1 tvg-id="106.AstroPrima" group-title="🇲🇾 RIA WARNA & PRIMA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",PRIMA HD (lagg )
-http://31.42.187.37:25461/watchpad13158/1234/11486
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default.mpd
+
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -2176,16 +2174,19 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 #EXTINF:-1 tvg-id="105" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="🇲🇾 MADANI (ASTRO GO)",DRAMA SANGAT
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/hdntl=exp=1726328051~acl=%2f*~data=hdntl~hmac=259bc72dc4069c08e483160463daa5430bf7a31ba724cae38c001093893e34a8/index.m3u8
-https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/hdntl=exp=1726292758~acl=%2f*~data=hdntl~hmac=b2f6f84847b4fc6ef50f2d28daae8f2d135be4f94fb8c4f7b1f306dd09fef634/1726212237995.ts
+https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/TEST%20M3U
+#https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=1726350989~hmac=f7d3e3b61ca1080a4142b6f7ae48f36f82de150f1019d2f66bff96fe19d104bd
+#https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/hdntl=exp=1726292758~acl=%2f*~data=hdntl~hmac=b2f6f84847b4fc6ef50f2d28daae8f2d135be4f94fb8c4f7b1f306dd09fef634/1726212237995.ts
+https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=1726350989~hmac=f7d3e3b61ca1080a4142b6f7ae48f36f82de150f1019d2f66bff96fe19d104bd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linears-playback.astro.com.my/vsg/41Zql5ajkPvjBQ8DoMTWoFvQiACSzNYRfxMAjo36O6XL8=XM-R/dash-wv/jitp-linearwm/1004
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MADANI (ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
-#https://9nmy.short.gy/1004.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 #https://tv.jnda.tech/hxr/9u9k4t/l.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgSRiGR3BsJHZzGRYJz0tAno=1PRB/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2200,3 +2201,7 @@ https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #KODIPROP:inputstream.adaptive.license_key=794848d878e10fab209059c0e6942010:961c77438e111f20abd3db96f88cdfd2
 #EXTINF:-1 tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KITA.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MADANI (ASTRO GO)",KITA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
+
+##EXTINF:-1 group-title="TEST" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png" ch-number="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://iili.io/JLHfQiN.png",RIA TEST
+#EXTVLCOPT:http-referrer=https://www.tvmalaysia.live/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd

@@ -410,7 +410,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="8TV" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-name="8TV" group-title="🇲🇾 MADANI (ASTRO GO)"  tvg-logo="https://iili.io/1NqvDJ.png",8TV HD
+#EXTINF:-1 tvg-id="8TV" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" tvg-name="8TV" group-title="🇲🇾 MADANI (ASTRO GO)"  tvg-logo="https://iili.io/1NqvDJ.png",8TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
 
@@ -418,11 +418,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lY6ctzieIJSN5aVC0nKezw", "kid":"J4KHJ/CjoLT7xmg3jM+MEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="149" ch-number="149" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-name="TV9" group-title="🇲🇾 MADANI (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9 HD
+#EXTINF:-1 tvg-id="149" ch-number="149" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" tvg-name="TV9" group-title="🇲🇾 MADANI (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
 
-##EXTINF:-1 tvg-id="149" ch-number="149" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-name="TV9" group-title="🇲🇾 MADANI (ASTRO GO)" tvg-logo="https://ott-1.ottnavi99.workers.dev/0:/ott-1/TV9.png",149  TV9 HD
+##EXTINF:-1 tvg-id="149" ch-number="149" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" tvg-name="TV9" group-title="🇲🇾 MADANI (ASTRO GO)" tvg-logo="https://ott-1.ottnavi99.workers.dev/0:/ott-1/TV9.png",149  TV9 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36

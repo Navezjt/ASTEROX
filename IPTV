@@ -1847,84 +1847,84 @@ https://lnc-nbc-news-now.tubi.video/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KMxTZ99mbES+Q4LmSvZNVw", "kid":"YHt9IlZcS8O5X/bDPOZUJQ" } ], "type":"temporary" }
-##EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno=" " group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",Channel 5 
+##EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno=" " group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP12.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",Channel 5 
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KMxTZ99mbES+Q4LmSvZNVw", "kid":"YHt9IlZcS8O5X/bDPOZUJQ" } ], "type":"temporary" }
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP.jpeg" " tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",CHANNEL 5 (SG)
+#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP12.jpeg" " tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",CHANNEL 5 (SG)
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9I62dT89F3TaaClwyTzyYA", "kid":"JEj8VhsMQiCoHxAIlx0wiA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",CHANNEL 8 (SG)
+#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP12.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",CHANNEL 8 (SG)
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LMaeqqhY/tJMViNlTa+NPQ", "kid":"AyihU8KZSyeasDqyUQL8WQ" } ], "type":"temporary" }
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg", CHANNEL U (SG)
+#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP12.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg", CHANNEL U (SG)
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uTgBiLSJayXo1BnfzpOMbg", "kid":"ep6m31IESEGwxWJ2bmAmEA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno=" " group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",SURIA (SG)
+#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno=" " group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP12.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",SURIA (SG)
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhnVS3vNi7M2d2/hNtSPVw", "kid":"mXADjvbFSOOXaPOh/29QgQ" } ], "type":"temporary" }
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",VASANTHAM (SG)
+#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP12.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",VASANTHAM (SG)
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",SPORT 1 (SG)
+#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP12.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",SPORT 1 (SG)
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",SPORT 2 (SG)
+#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP12.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",SPORT 2 (SG)
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",ANIMAX (SG)
+#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP12.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",ANIMAX (SG)
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nUO8xR83UFUNMhzcN+V8yQ", "kid":"BAPmVN2rQZ22zHK7P6USSA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",GEM (SG)
+#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP12.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",GEM (SG)
 https://d2q3zea8ff7bj4.cloudfront.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rUUgLmT2bvNrP2D6yTzEfw", "kid":"I0HC7NPPSGWIG7D6Eofejw" } ], "type":"temporary" }
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",ROCK ACTION (SGP)
+#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP12.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",ROCK ACTION (SGP)
 https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",ROCK ENTERTAINMENT (SGP)
+#EXTINF:-1 group-title="🇸🇬 SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/MEDIACORP12.jpeg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",ROCK ENTERTAINMENT (SGP)
 https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 
 

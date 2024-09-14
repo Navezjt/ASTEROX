@@ -893,7 +893,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" group-title="🇲🇾 INDIAN(ASTRO GO)" tvg-logo="https://telegra.ph/file/4544bbedde1b68cd99e7f.png",BOLLYWOD PRIME
+#EXTINF:-1 https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="🇲🇾 INDIAN(ASTRO GO)" tvg-logo="https://telegra.ph/file/4544bbedde1b68cd99e7f.png",BOLLYWOD PRIME
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00877-b4unetworkeurop-bollywoodprime-dash-sooka/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive

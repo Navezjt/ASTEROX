@@ -2180,7 +2180,7 @@ https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/hdntl=exp=172629275
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linears-playback.astro.com.my/vsg/41Zql5ajkPvjBQ8DoMTWoFvQiACSzNYRfxMAjo36O6XL8=XM-R/dash-wv/jitp-linearwm/1004
 #EXTINF:-1 tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MADANI (ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
-#https://9nmy.short.gy/1004.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 #https://tv.jnda.tech/hxr/9u9k4t/l.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd

@@ -2215,7 +2215,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
 https://tonton-vod.akamaized.net/vod/379/6465766/playlist_wifi_high.m3u8?&hdnts=exp=1726359766~hmac=1ee6397638c31070fbfe4281b319b66dc492fb45d8ab768126fc5fbc8b6b4d34
 
-#EXTINF:-1 group-title="🇲🇾 BWF TEST" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnTHjcV9iA3eYsyL8Xg7hlTkDzhZji3zapcw&s" ch-number="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnTHjcV9iA3eYsyL8Xg7hlTkDzhZji3zapcw&s",MR MAID SUAMI IBU
-#EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
-https://atemeshield2-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
+##EXTINF:-1 group-title="🇲🇾 BWF TEST" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnTHjcV9iA3eYsyL8Xg7hlTkDzhZji3zapcw&s" ch-number="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnTHjcV9iA3eYsyL8Xg7hlTkDzhZji3zapcw&s",MR MAID SUAMI IBU
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
+https://atemeshield1-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD-avc1_2000000=4-3063100519200000.mp4

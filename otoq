@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml"refresh="1440" max-conn="1" refresh="24" vod_library="https://dl.dropbox.com/scl/fi/07hague6sa0a5mkr6g7gc/T-Vision-VOD.m3u?rlkey=igjyfiapriuk1a21cqmyuvn17&dl=0, https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php, https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/vodmalay, https://fahmikacak.pages.dev/HBOGO%20Asia" refresh="1440" billed-msg="MINOR UPDATE 13/9/2024 | PM US SEKIRANYA CHANNEL DOWN.. TERIMA KASIH GAISSS " 
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml"refresh="1440" max-conn="1" refresh="24" vod_library="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/vodmalay" refresh="1440" billed-msg="MINOR UPDATE 13/9/2024 | PM US SEKIRANYA CHANNEL DOWN.. TERIMA KASIH GAISSS " 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml" refresh="1440" max-conn="1" refresh="24"

@@ -2215,3 +2215,10 @@ https://tonton-vod.akamaized.net/vod/379/6465766/playlist_wifi_high.m3u8?&hdnts=
 ##EXTINF:-1 group-title="🇲🇾 BWF TEST" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnTHjcV9iA3eYsyL8Xg7hlTkDzhZji3zapcw&s" ch-number="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnTHjcV9iA3eYsyL8Xg7hlTkDzhZji3zapcw&s",MR MAID SUAMI IBU
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
 https://atemeshield1-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD-avc1_2000000=4-3063100519200000.mp4
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA GO"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV INDIHOME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+

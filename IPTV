@@ -2138,30 +2138,20 @@ https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTINF:-1 tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KITA.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MADANI",100 KITA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 
-#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/pK9U1NUEUEg/hqdefault.jpg",2021 ALL ENGLAND MS 🏸
-#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
-https://gladys21.oceansaver.in/pacific/?8JFW33LCxgHLquSqohEtf1M
-
-
-##EXTINF:-1 group-title="🇲🇾 VOD TONTON" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/TONTON.jpg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuOHaXUbywIoJRY2lQLtuJ_wEFfxB1e-jUGxHHlp9ke4rKnaYMbgEHQ9KbaB9U4BYshFoUix6-VsKp8296CGBJIWTBVYvo_LHz7kO52CAuFpN5KA83om1yHheViVVlBYCxN4x2Q7VJnJiS_hUlY5cVzc6Guje5nhpxpaD8swAurMJTRuPPCgfMbCh35czP/s16000/TAUBATKU.webp",TAUBATKU
-#EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
-https://tonton-vod.akamaized.net/vod/379/6465766/playlist_wifi_high.m3u8?&hdnts=exp=1726359766~hmac=1ee6397638c31070fbfe4281b319b66dc492fb45d8ab768126fc5fbc8b6b4d34
-
-##EXTINF:-1 group-title="🇲🇾 BWF TEST" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnTHjcV9iA3eYsyL8Xg7hlTkDzhZji3zapcw&s" ch-number="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnTHjcV9iA3eYsyL8Xg7hlTkDzhZji3zapcw&s",MR MAID SUAMI IBU
-#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
-https://atemeshield1-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD-avc1_2000000=4-3063100519200000.mp4
-
-
 #EXTINF:-1 group-title="🇮🇩 INDONESIA"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV INDIHOME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 
-
 #EXTINF:-1 group-title="🇮🇩 INDONESIA"  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/pK9U1NUEUEg/hqdefault.jpg",2021 ALL ENGLAND MS 🏸
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
+https://gladys21.oceansaver.in/pacific/?8JFW33LCxgHLquSqohEtf1M
+
 
 #EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wr8AUMX_iMc/hqdefault.jpg",2017 ASIA CHAMPIONSHIP - MS SF 🏸
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com

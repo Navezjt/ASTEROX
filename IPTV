@@ -2148,7 +2148,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
-#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" tvg-logo="https://i.ytimg.com/vi/pK9U1NUEUEg/hqdefault.jpg",2021 ALL ENGLAND MS 🏸
+##EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" tvg-logo="https://i.ytimg.com/vi/pK9U1NUEUEg/hqdefault.jpg",2021 ALL ENGLAND MS 🏸
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
 https://gladys21.oceansaver.in/pacific/?8JFW33LCxgHLquSqohEtf1M
 
@@ -2163,4 +2163,8 @@ https://sylvia24.oceansaver.in/pacific/?SKtORKj9PtTSRzy0VjlJQSb
 #EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/UWmevRoemrk/hqdefault.jpg",2014 ALL ENGLAND MS FINAL  🏸
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
 https://kevin5.oceansaver.in/pacific/?VbhKPNAiYechz7sbK6K89Vc
+
+#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/UWmevRoemrk/hqdefault.jpg",2021 ALL ENGLAND MS 🏸  
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
+https://gladys21.oceansaver.in/pacific/?8JFW33LCxgHLquSqohEtf1M
 

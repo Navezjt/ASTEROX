@@ -1,5 +1,10 @@
 -----------------------------------------------ACTION------------------------------------------------------------
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/01/film-race-for-glory-audi-vs-lancia-2024-lk21-d21.jpg.webp" group-title="LAST UPDATE VOD 2024",Race for Glory: Audi vs. Lancia (2024)
+https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/RACE.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuOHaXUbywIoJRY2lQLtuJ_wEFfxB1e-jUGxHHlp9ke4rKnaYMbgEHQ9KbaB9U4BYshFoUix6-VsKp8296CGBJIWTBVYvo_LHz7kO52CAuFpN5KA83om1yHheViVVlBYCxN4x2Q7VJnJiS_hUlY5cVzc6Guje5nhpxpaD8swAurMJTRuPPCgfMbCh35czP/s16000/TAUBATKU.webp" group-logo="https://cdn.vectorstock.com/i/500p/44/09/vod-video-on-demand-monetization-vector-42184409.jpg" group-title="LAST UPDATE VOD 2024" ,TAUBATKU
 https://tonton-vod.akamaized.net/vod/379/6465766/playlist_wifi_high.m3u8?&hdnts=exp=1726397897~hmac=d4eded451aa42d5f50662e16ec8b4d973b00cca9de968ace852e932a571f5574

@@ -2138,6 +2138,12 @@ https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTINF:-1 tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KITA.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MADANI",100 KITA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 
+#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://i.ytimg.com/vi/wr8AUMX_iMc/hqdefault.jpg",2017 ASIA CHAMPIONSHIP 🏸
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
+https://2475154628.tapecontent.net/radosgw/xyxx2gW9OJtDJy/7dbqsjJfs9O6Z7sQXJDdka9RHz_oZ0TiCrxRWU9QeCvhq9MLVy4CYiVlobf8iNSpjOLGtIgvf1nO9fH-Sz8PGO-geC0pQ2WtXvWekuTaXwEmdAao3AJU_0Ol3XrkTYu8pQxdT_fYO3AQwXf5jhzt4tL-E_apA2kBL-1lSZeZAVFFTNNatTcXqAv1I2CGUnmPz-sA3t-Qax5wxZ8P4SRUgpYxUkpZOdGPXXoTqNczusNpNZ3Q7eIvGVb68n3C3bZ0SGSLtnZCsvs7ERYUmsaWYcilnH_GaWozsOZacg/4k+bwf+LD+vs+LCW+2017.mp4?stream=1
+
+
+
 ##EXTINF:-1 group-title="🇲🇾 VOD TONTON" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/TONTON.jpg" ch-number="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuOHaXUbywIoJRY2lQLtuJ_wEFfxB1e-jUGxHHlp9ke4rKnaYMbgEHQ9KbaB9U4BYshFoUix6-VsKp8296CGBJIWTBVYvo_LHz7kO52CAuFpN5KA83om1yHheViVVlBYCxN4x2Q7VJnJiS_hUlY5cVzc6Guje5nhpxpaD8swAurMJTRuPPCgfMbCh35czP/s16000/TAUBATKU.webp",TAUBATKU
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
 https://tonton-vod.akamaized.net/vod/379/6465766/playlist_wifi_high.m3u8?&hdnts=exp=1726359766~hmac=1ee6397638c31070fbfe4281b319b66dc492fb45d8ab768126fc5fbc8b6b4d34
@@ -2158,7 +2164,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
-#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://i.ytimg.com/vi/wr8AUMX_iMc/hqdefault.jpg",2017 ASIA CHAMPIONSHIP 🏸
+##EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://i.ytimg.com/vi/wr8AUMX_iMc/hqdefault.jpg",2017 ASIA CHAMPIONSHIP 🏸
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
 https://2475154628.tapecontent.net/radosgw/xyxx2gW9OJtDJy/7dbqsjJfs9O6Z7sQXJDdka9RHz_oZ0TiCrxRWU9QeCvhq9MLVy4CYiVlobf8iNSpjOLGtIgvf1nO9fH-Sz8PGO-geC0pQ2WtXvWekuTaXwEmdAao3AJU_0Ol3XrkTYu8pQxdT_fYO3AQwXf5jhzt4tL-E_apA2kBL-1lSZeZAVFFTNNatTcXqAv1I2CGUnmPz-sA3t-Qax5wxZ8P4SRUgpYxUkpZOdGPXXoTqNczusNpNZ3Q7eIvGVb68n3C3bZ0SGSLtnZCsvs7ERYUmsaWYcilnH_GaWozsOZacg/4k+bwf+LD+vs+LCW+2017.mp4?stream=1
 

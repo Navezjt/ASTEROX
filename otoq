@@ -1313,10 +1313,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/447157722-48a4a4d2c59e924ed96559bfd9dd6b404e412f10567cb4910a49260eb9d3e7f8-d" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="🇲🇾 MOVIES",HBO SIGNATURE
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-#https://cdnjkt4.transvision.co.id:1004/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="🇲🇾 MOVIES",HBO SIGNATURE
+https://cdnjkt4.transvision.co.id:1004/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash

@@ -24,6 +24,11 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇲🇾 SPORTS" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/astro%20go.png" tvg-logo="https://vocketfc.com/app/uploads/sites/2/2019/11/FIFA_Logo_1050x700.jpg",FIFA PLUS HD
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
@@ -40,19 +45,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e 
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6azRPREJtT1dVdFl6RmtZeTAwWVRZeExUa3lZemd0T0RFek5UZG1PV1UwTkdRMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNzA5NzU1OSwiaWF0IjoxNzI2NDkzNTU5fQ.-gvh_-B2MDKDJjYSGTa-o-yDi60FGk62JRZwj0NhiBI"}
-#EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS",ASTRO ARENA BOLA
+##EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS",ASTRO ARENA BOLA
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tWTVaR1E1T0RJdE5UZzNOQzAwWVRsbUxUazRNVEV0TXpkbFpXRXpPV1E0WmpVdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjQ4NzU4NCwiaWF0IjoxNzI1ODgzNTg0fQ.PsaUI_vHCB_qZ7JdbyCSEP3RDud7MfN8Z3fhK5GETrw"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6azRPREJtT1dVdFl6RmtZeTAwWVRZeExUa3lZemd0T0RFek5UZG1PV1UwTkdRMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNzA5NzU1OSwiaWF0IjoxNzI2NDkzNTU5fQ.-gvh_-B2MDKDJjYSGTa-o-yDi60FGk62JRZwj0NhiBI"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key= {"7481d3e3738c46768f138e208fee9076":"e1d428c7f1ca82339a6cfa1d0757428e"}
-##EXTINF:-1 tvg-id="AstroArenaBola" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="🇲🇾 SPORTS",ASTRO ARENA BOLA
+#EXTINF:-1 tvg-id="AstroArenaBola" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="🇲🇾 SPORTS",ASTRO ARENA BOLA
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tWTVaR1E1T0RJdE5UZzNOQzAwWVRsbUxUazRNVEV0TXpkbFpXRXpPV1E0WmpVdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNjQ4NzU4NCwiaWF0IjoxNzI1ODgzNTg0fQ.PsaUI_vHCB_qZ7JdbyCSEP3RDud7MfN8Z3fhK5GETrw"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6azRPREJtT1dVdFl6RmtZeTAwWVRZeExUa3lZemd0T0RFek5UZG1PV1UwTkdRMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNzA5NzU1OSwiaWF0IjoxNzI2NDkzNTU5fQ.-gvh_-B2MDKDJjYSGTa-o-yDi60FGk62JRZwj0NhiBI"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"99685545491d40b493b3a4b263c7245e": "7939e335bf8cbbd6882f9f5c9cdebe19"}
@@ -414,6 +418,9 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/inde
 
 #EXTINF:-1 tvg-id="113" ch-number="113" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-name="TV6" group-title="🇲🇾 MADANI" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png",TV6 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+
+#EXTINF:-1 tvg-id="" ch-number="" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-name="TV6" group-title="🇲🇾 MADANI" tvg-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/refs/heads/main/sooka-infamoustv-live-streaming-online.webp",INFAMOUS TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-dash-sooka/4197552f-8b56-449e-a6fa-d4504d0182dd/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1267,6 +1274,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 #########################################################MOVIES#######################################################################################################
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/11355023.548145c7b7edf.jpg" group-title="🇲🇾 MOVIES",HBO SIGNATURE
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
 
 
@@ -2115,7 +2124,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 ####################################11mlm#################################
 
 #EXTINF:-1 tvg-id="105" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="🇲🇾 MADANI",DRAMA SANGAT
-https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=1726664557~hmac=5457f8da9aff687e8ca17cbd368ef9c8fc13af2a2c912fbffd203e0f9181caaa
+https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=1726695361~hmac=7aa1ee1860374939409e67ea2fa4e2bcfec5467f34dd572aec2a2203ec7d3932
 
 #EXTINF:-1 tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MADANI" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive

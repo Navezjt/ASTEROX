@@ -1274,11 +1274,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 #########################################################MOVIES#######################################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/11355023.548145c7b7edf.jpg" group-title="🇲🇾 MOVIES",HBO SIGNATURE
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-
-
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1312,6 +1307,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" group-title="🇲🇾 MOVIES" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBO.png",411 HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇲🇾 MOVIES" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/11355023.548145c7b7edf.jpg" group-title="🇲🇾 MOVIES",HBO SIGNATURE
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash

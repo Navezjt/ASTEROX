@@ -414,6 +414,9 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/inde
 #EXTINF:-1 tvg-id="113" ch-number="113" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-name="TV6" group-title="🇲🇾 MADANI" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png",TV6 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
+#EXTINF:-1 tvg-id="" ch-number="" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-name="TV6" group-title="🇲🇾 MADANI" tvg-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/refs/heads/main/sooka-infamoustv-live-streaming-online.webp",INFAMOUS TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-dash-sooka/4197552f-8b56-449e-a6fa-d4504d0182dd/index.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

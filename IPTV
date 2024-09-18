@@ -1274,6 +1274,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 #########################################################MOVIES#######################################################################################################
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/11355023.548145c7b7edf.jpg" group-title="🇲🇾 MOVIES",HBO SIGNATURE
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
 
 

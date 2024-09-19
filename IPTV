@@ -2207,5 +2207,18 @@ https://sylvia24.oceansaver.in/pacific/?MyY1ZSOsXCiDoPd1pginw7Z
 https://wesley7.oceansaver.in/pacific/?arpo1OgYar43j9rRdl7wPYG
 #https://860718898.tapecontent.net/radosgw/LyebWkz38QcRKmZ/quZeINRN6qmoRCmJlywVh9CId9RwSMUfeJffmRqB7xqlBe9CEu2mTBUcUEiWJskaZlmA8dYixsofUt_It77kmCKvfwuWG4b4GSl53ya_lRLfJSp1NG34ZzbgxNoJyf81JJjBdB09jQf4cSLQHFH5apxQYrhDMQxLfd8jNJs9dfu_V4EUg23aB-9oOVZ11XbY_okxt-b_cLX8WPkICjvUYSHnA5k9ASmhrh9LYMpu6335EFEi5-F8id_1KslnqRrx8dMYrTGmIoGiePuJiwJ4Tp96LE-fNSY8qXPPzX0x3z6TsQPTeDgR8kgmnBRmMrVWl2Syyxq0_YHhyN7B/Aquaman+vs+Black+Manta.+Submarine+%EF%BD%9C+Aquaman+%5B4k%2C+HDR%5D.mp4?stream=1
 
+#EXTINF:-1 tvg-id="DisneyJuniorSouthAfrica.za" tvg-name="" tvg-logo="https://i.ibb.co/yVKvfKb/1200px-Disney-Junior-svg.png" group-title="🇲🇾 test",xxx
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+#http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1111
+#https://live-cdn.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
 
+#EXTHTTP:{"authorization":"Bearer eyJraWQiOiIwNTEwMGM2OC02NzBiLTRmMzAtYTEyZS01MTY5YTEzYzk0NzAiLCJqa3UiOiJodHRwczovL3NnLXNnLXNnLmFzdHJvLmNvbS5teTo5NDQzL29hdXRoMi9qd2tzP2tpZD0wNTEwMGM2OC02NzBiLTRmMzAtYTEyZS01MTY5YTEzYzk0NzAiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3MjY3NDAyMTUsInN1YiI6Ijg0MDc4MDkwIiwiYXVkIjoiaXZwLnNlc3Npb25ndWFyZCIsImV4cCI6MTcyNjc1MTAxNSwic2Vzc2lvbl9kYXRhIjp7InNlc3Npb24iOnsiZGV2SWQiOiI4NDA3ODA5MC5kNjJkY2I2Yi02YzQwLTQwOTQtYjE5Zi1kNDY2ZWQ3YzBiMmYiLCJndWVzdE1vZGUiOmZhbHNlLCJoaElkIjoiODQwNzgwOTAiLCJidXNVbml0SWQiOiJBU1RSTyJ9fSwiZGV2aWNlRnVsbFR5cGUiOiJCcm93c2VyLURlZmF1bHQiLCJzY29wZSI6ImJyb3dzZSBwbGF5YmFjayIsInRva2VuX3R5cGUiOiJhY2Nlc3NfdG9rZW4iLCJzc2FfanRpIjoiYnJvd3NlciIsImNsaWVudF9pZCI6ImJyb3dzZXIiLCJqdGkiOiJhMDMyNzRkOS1iN2RlLTRlYjAtYWFlZC0xZDMxNTU5OTBhNDkifQ.AEp2t8dtlWrtAjz6OH_QpKxrulUbbpjT6g_Hs00qzCxm-hZlxXy4XmWW9XjGMq9xtfmx0iXqQw1XygpTSv7IbZs3Cz0JRY4hgwIGfGmdxACJ8stkMQmTRMJud_LiT4h6sQy3i6cI0jB6wFTOQmI8Ip8upReWvoRAkwnvfIePpWXAUZ1AeBBsJLTy38elllcZCr98KPRDRiBE-E8elat6luxTE_dWEASfWLJZX46vuWICVdjpxZ8ZZ-BQZYG45y9wxMZGD-hFsHciRWtiCAcMgO6UjSCHGojAoa7rVJT-bF9cloA0S0JcFoJPBC9_Od3nFyAO8Rrd5frsABffmMV4fg
+"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key= {"8f1da399325247eca6acdd7bafb95fa2": "41f234fb88590af3b0d224111a61bf71"}
+#EXTINF:-1 tvg-id="Ates" group-title="🇲🇾 SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",test2 
+https://linears-playback.astro.com.my/vsg/41Zql5ajkPvjBQ8DoMTWoFvfrs5nOz746dshT4BljoOIc=7vOT/dash-wv/jitp-linearwm/1004/default_ott.mpd

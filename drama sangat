@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x720
+https://tonton-live-sg3.akamaized.net/live-hls/tonton10_720p/hdntl=exp=1727098056~acl=%2f*~data=hdntl~hmac=14bbbb1ebf32e9bd13be69dbda14e640fbd696f671182735065521296313b80c/index.m3u8

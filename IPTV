@@ -2135,7 +2135,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d7353af5752dd2bff0f09b5a70db0f1e78b512a7fb23cfe58776a6a7c8c9fb9
 #EXTINF:-1 tvg-id="105" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="🇲🇾 MADANI",DRAMA SANGAT
-https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=1727070609~hmac=b5ae7eb26ddecc09256ddb6e57919b10140aa1b946dd11ad6f46200223086159
+https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=1727120473~hmac=5b3c939c759ed51d770820a4874bae1deac01247f3f50d911e177b9c9ce37a08
 
 #EXTINF:-1 tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MADANI" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive

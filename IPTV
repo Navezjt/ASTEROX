@@ -2334,3 +2334,12 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l7vncFZAHBxu5eXX1OEvRRsa-9caMKsPiHrBr6ng=s900-c-k-c0x00ffffff-no-rj",Nagaswara Dangdut
+https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bAVfQ6gpye.png",Nagaswara Pop
+https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/g4kUYcZWjy.png",Nagaswara Dance
+https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8

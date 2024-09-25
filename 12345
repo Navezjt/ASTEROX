@@ -1,7 +1,7 @@
 
 #EXTM3U 
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml"refresh="1440" max-conn="1" refresh="24" vod_library="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/vodmalay " refresh="1440" billed-msg="VOD UPDATE 17/9/2024 | THANKS FOR SUPPORT 👍👍👍... TERIMA KASIH GAISSS " 
-#EXTM3U billed-msg=" Minor Channels Updated - 25/9/24 "
+#EXTM3U billed-msg="Minor Channels Updated - 25/9/24" "billed-msg="VOD UPDATE 17/9/2024 | THANKS FOR SUPPORT 👍👍👍... TERIMA KASIH GAISSS " 
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" refresh="1440" max-conn="1" refresh="24"

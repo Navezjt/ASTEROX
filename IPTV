@@ -1,9 +1,6 @@
-#EXTM3U billed-msg="Minor Channels Updated - 15/9/24"
-#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3"
-
 
 #EXTM3U 
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml"refresh="1440" max-conn="1" refresh="24" vod_library="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/vodmalay " refresh="1440" billed-msg="VOD UPDATE 17/9/2024 | THANKS FOR SUPPORT 👍👍👍... TERIMA KASIH GAISSS " 
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml"refresh="1440" max-conn="1" refresh="24" vod_library="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/vodmalay " refresh="1440" billed-msg="THANKS FOR SUPPORT 👍👍👍... TERIMA KASIH GAISSS " 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml" refresh="1440" max-conn="1" refresh="24"
@@ -2198,7 +2195,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d7353af5752dd2bff0f09b5a70db0f1e78b512a7fb23cfe58776a6a7c8c9fb9
 #EXTINF:-1 tvg-id="105" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="🇲🇾 MADANI",DRAMA SANGAT
-https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=1727248431~hmac=f1f23163131b2d9df2944f34014e4875bfee27f67442030efc62a08f779250b6
+https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8?&hdnts=exp=1727282744~hmac=86f8e2e467133b80a20cb2fa53d547bafa387e69b901eb8f016a7d474dfee04d
 
 #EXTINF:-1 tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MADANI" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive

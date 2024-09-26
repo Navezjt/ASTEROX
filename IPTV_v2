@@ -2,6 +2,8 @@
 #EXTM3U billed-msg="⚙️ CHANNEL WILL BE DOWN .. PLEASE CONTACT ADMIN | 🙋‍♂ ID: NULL  | 🔜 Exp: 2024-09-26 "
 #EXTM3U vod_library="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/vodmalay, https://raw.githubusercontent.com/Justryuz/TV/refs/heads/main/HBOGO%20Asia.html" refresh="1440" 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/refs/heads/main/epg.xml, https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml, https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml, https://raw.githubusercontent.com/imanawesome2010/epg/refs/heads/main/astro_epg.xml, https://github.com/imanawesome2010/epg/blob/main/indonesia.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_PH.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/ardanepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/mariepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/masimaepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/traxepg.xml,  https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone-pt.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_GB.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml, https://bit.ly/3itZsSm, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz, https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/USA/tv.com.channels.xml, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" refresh="3600"
 
 
 
@@ -195,7 +197,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
-#EXTINF:0 tgv-id=SPOTV2.id" tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="🇲🇾 SPORTS", SPOTV HD 2 🇮🇩
+#EXTINF:0 tgv-id=SPOTV2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/qWrg-PcfzEqD7aELRO9UAHkyMhk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="🇲🇾 SPORTS", SPOTV HD 2 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
@@ -232,7 +234,7 @@ https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/inde
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-id="TVRI SPORT HD.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png " group-title="🇲🇾 SPORTS ",TVRI SPORT 🇮🇩
+#EXTINF:-1 tvg-id="TVRISPORTHD.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png " group-title="🇲🇾 SPORTS ",TVRI SPORT 🇮🇩
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
 
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="🇲🇾 SPORTS" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", PREMIERE 1 🇧🇷

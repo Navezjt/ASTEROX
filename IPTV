@@ -1777,7 +1777,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="IMC.id"group-title="🇮🇩 INDONESIA" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/VIDIO.jpg" tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
+#EXTINF:-1 tvg-id="IMC.id" group-title="🇮🇩 INDONESIA" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/VIDIO.jpg" tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
@@ -1861,15 +1861,7 @@ https://youtu.be/dgLRghtSeh4?si=SQdTZjKLnmNgUlXo
 https://wesley7.oceansaver.in/pacific/?arpo1OgYar43j9rRdl7wPYG
 #https://860718898.tapecontent.net/radosgw/LyebWkz38QcRKmZ/quZeINRN6qmoRCmJlywVh9CId9RwSMUfeJffmRqB7xqlBe9CEu2mTBUcUEiWJskaZlmA8dYixsofUt_It77kmCKvfwuWG4b4GSl53ya_lRLfJSp1NG34ZzbgxNoJyf81JJjBdB09jQf4cSLQHFH5apxQYrhDMQxLfd8jNJs9dfu_V4EUg23aB-9oOVZ11XbY_okxt-b_cLX8WPkICjvUYSHnA5k9ASmhrh9LYMpu6335EFEi5-F8id_1KslnqRrx8dMYrTGmIoGiePuJiwJ4Tp96LE-fNSY8qXPPzX0x3z6TsQPTeDgR8kgmnBRmMrVWl2Syyxq0_YHhyN7B/Aquaman+vs+Black+Manta.+Submarine+%EF%BD%9C+Aquaman+%5B4k%2C+HDR%5D.mp4?stream=1
 
-#EXTINF:-1 tvg-id="DisneyJuniorSouthAfrica.za" tvg-name="" tvg-logo="https://i.ibb.co/yVKvfKb/1200px-Disney-Junior-svg.png" group-title="🇲🇾 test",xxx
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
-#http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1111
-#https://live-cdn.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
-
 ##################################SPORTS NEWS############################
-
 
 ##EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/refs/heads/main/BEIN%201.png" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/refs/heads/main/ptv.bein.ui-bbfcf241-a3b4-421c-9b88-8cc1a56d4774_512x512.webp"  group-title="🌏 BEIN SPORTS",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/

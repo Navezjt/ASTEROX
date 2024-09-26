@@ -1070,11 +1070,6 @@ https://linear03-playback.sooka.my/CH1/masterCH1.mpd
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
-#EXTINF:-1 tvg-id="GEM.sg" ch-number=" " tvg-name="GEM" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png" group-title="🇲🇾 KOREAN",GEM
-https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="KBSWorld" ch-number=" " tvg-name="KBS World HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="🇲🇾 KOREAN",KBS World
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
@@ -1721,15 +1716,15 @@ http://31.42.187.37:25461/watchpad13158/1234/11497
 ##EXTINF:-1 tvg-id="" tvg-name="" group-title="🇲🇾 MADANI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",ASTRO WARNA HD (DELAY 1 )
 https://bstvcdn.ballbar.net/Warna/playlist-15.m3u8a?t=1727154440&token=e297e8a86dcb5305ea9c6d8f8cff3c13
 
-#EXTINF:-1 tvg-id="AstroRia" ch-number="104" tvg-name="RIA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="🇲🇾 MADANI", ASTRO RIA  
+##EXTINF:-1 tvg-id="AstroRia" ch-number="104" tvg-name="RIA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="🇲🇾 MADANI", ASTRO RIA  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
 http://31.42.187.37:25461/watchpad13158/1234/11485
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="🇲🇾 MADANI", ASTRO PRIMA 
+##EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="🇲🇾 MADANI", ASTRO PRIMA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
 http://31.42.187.37:25461/watchpad13158/1234/11486
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="🇲🇾 MADANI", ASTRO WARNA 
+##EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="🇲🇾 MADANI", ASTRO WARNA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
 http://31.42.187.37:25461/watchpad13158/1234/11487
 
@@ -1828,39 +1823,39 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
 https://gladys21.oceansaver.in/pacific/?8JFW33LCxgHLquSqohEtf1M
 
-#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wr8AUMX_iMc/hqdefault.jpg",2017 ASIA CHAMPIONSHIP - MS SF 🏸
+##EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wr8AUMX_iMc/hqdefault.jpg",2017 ASIA CHAMPIONSHIP - MS SF 🏸
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
 https://jo9.oceansaver.in/pacific/?6v2XJW4ZLaZDHF0WfylqHGc
 
-#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Rb9xa2L0vYQ/hqdefault.jpg",2018 ASIA CHAMPIONSHIP - MS SF 🏸
+##EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Rb9xa2L0vYQ/hqdefault.jpg",2018 ASIA CHAMPIONSHIP - MS SF 🏸
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
 https://sylvia24.oceansaver.in/pacific/?SKtORKj9PtTSRzy0VjlJQSb
 
-#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/UWmevRoemrk/hqdefault.jpg",2014 ALL ENGLAND MS FINAL  🏸
+##EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/UWmevRoemrk/hqdefault.jpg",2014 ALL ENGLAND MS FINAL  🏸
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
 https://kevin5.oceansaver.in/pacific/?VbhKPNAiYechz7sbK6K89Vc
 
-#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/UWmevRoemrk/hqdefault.jpg",2021 ALL ENGLAND MS 🏸  
+##EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/UWmevRoemrk/hqdefault.jpg",2021 ALL ENGLAND MS 🏸  
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
 https://gladys21.oceansaver.in/pacific/?8JFW33LCxgHLquSqohEtf1M
 
-#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ZeJlh0vhcFc/hqdefault.jpg", Man Utd. Vs. Inter Milan highlight
+##EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ZeJlh0vhcFc/hqdefault.jpg", Man Utd. Vs. Inter Milan highlight
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
 https://jesse57.oceansaver.in/pacific/?H4hEmw1vIxkdfJ0CQcx4n56
 
-#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ZgQwpzg7-R8/hqdefault.jpg", Liang Wei Keng / Wang Chang Vs Goh Sze Fei / Nur Izzuddin | 2024 Asia Championships Final
+##EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/4k.jpeg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ZgQwpzg7-R8/hqdefault.jpg", Liang Wei Keng / Wang Chang Vs Goh Sze Fei / Nur Izzuddin | 2024 Asia Championships Final
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com
 https://leona20.oceansaver.in/pacific/?jd3xVLRXTR8eaL76u9k0zgP
 
-#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://i.ytimg.com/vi/TrWOORrNo-E/hqdefault.jpg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TrWOORrNo-E/hqdefault.jpg", AQUAMAN SCENE UHD
+##EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://i.ytimg.com/vi/TrWOORrNo-E/hqdefault.jpg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TrWOORrNo-E/hqdefault.jpg", AQUAMAN SCENE UHD
 https://vera19.oceansaver.in/pacific/?ViKa9kZ37u3t9ibxuuY93uG
 #https://860718898.tapecontent.net/radosgw/LyebWkz38QcRKmZ/quZeINRN6qmoRCmJlywVh9CId9RwSMUfeJffmRqB7xqlBe9CEu2mTBUcUEiWJskaZlmA8dYixsofUt_It77kmCKvfwuWG4b4GSl53ya_lRLfJSp1NG34ZzbgxNoJyf81JJjBdB09jQf4cSLQHFH5apxQYrhDMQxLfd8jNJs9dfu_V4EUg23aB-9oOVZ11XbY_okxt-b_cLX8WPkICjvUYSHnA5k9ASmhrh9LYMpu6335EFEi5-F8id_1KslnqRrx8dMYrTGmIoGiePuJiwJ4Tp96LE-fNSY8qXPPzX0x3z6TsQPTeDgR8kgmnBRmMrVWl2Syyxq0_YHhyN7B/Aquaman+vs+Black+Manta.+Submarine+%EF%BD%9C+Aquaman+%5B4k%2C+HDR%5D.mp4?stream=1
 
-#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://i.ytimg.com/vi/TrWOORrNo-E/hqdefault.jpg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TrWOORrNo-E/hqdefault.jpg", AQUAMAN VS OCEAN MASTER QLED
+##EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://i.ytimg.com/vi/TrWOORrNo-E/hqdefault.jpg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TrWOORrNo-E/hqdefault.jpg", AQUAMAN VS OCEAN MASTER QLED
 https://youtu.be/dgLRghtSeh4?si=SQdTZjKLnmNgUlXo
 #https://860718898.tapecontent.net/radosgw/LyebWkz38QcRKmZ/quZeINRN6qmoRCmJlywVh9CId9RwSMUfeJffmRqB7xqlBe9CEu2mTBUcUEiWJskaZlmA8dYixsofUt_It77kmCKvfwuWG4b4GSl53ya_lRLfJSp1NG34ZzbgxNoJyf81JJjBdB09jQf4cSLQHFH5apxQYrhDMQxLfd8jNJs9dfu_V4EUg23aB-9oOVZ11XbY_okxt-b_cLX8WPkICjvUYSHnA5k9ASmhrh9LYMpu6335EFEi5-F8id_1KslnqRrx8dMYrTGmIoGiePuJiwJ4Tp96LE-fNSY8qXPPzX0x3z6TsQPTeDgR8kgmnBRmMrVWl2Syyxq0_YHhyN7B/Aquaman+vs+Black+Manta.+Submarine+%EF%BD%9C+Aquaman+%5B4k%2C+HDR%5D.mp4?stream=1
 
-#EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://i.ytimg.com/vi/TrWOORrNo-E/hqdefault.jpg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/CrXQEylzAm4/hqdefault.jpg", ESCAPE FROM ATLANTIS QLED
+##EXTINF:-1 group-title="4k ULTRA HD" group-logo="https://i.ytimg.com/vi/TrWOORrNo-E/hqdefault.jpg" ch-number="" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/CrXQEylzAm4/hqdefault.jpg", ESCAPE FROM ATLANTIS QLED
 https://wesley7.oceansaver.in/pacific/?arpo1OgYar43j9rRdl7wPYG
 #https://860718898.tapecontent.net/radosgw/LyebWkz38QcRKmZ/quZeINRN6qmoRCmJlywVh9CId9RwSMUfeJffmRqB7xqlBe9CEu2mTBUcUEiWJskaZlmA8dYixsofUt_It77kmCKvfwuWG4b4GSl53ya_lRLfJSp1NG34ZzbgxNoJyf81JJjBdB09jQf4cSLQHFH5apxQYrhDMQxLfd8jNJs9dfu_V4EUg23aB-9oOVZ11XbY_okxt-b_cLX8WPkICjvUYSHnA5k9ASmhrh9LYMpu6335EFEi5-F8id_1KslnqRrx8dMYrTGmIoGiePuJiwJ4Tp96LE-fNSY8qXPPzX0x3z6TsQPTeDgR8kgmnBRmMrVWl2Syyxq0_YHhyN7B/Aquaman+vs+Black+Manta.+Submarine+%EF%BD%9C+Aquaman+%5B4k%2C+HDR%5D.mp4?stream=1
 

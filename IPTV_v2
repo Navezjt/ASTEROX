@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="delay_time; URL=www.google.com" />
+
 #EXTM3U billed-msg="⚙️ CHANNEL WILL BE DOWN .. PLEASE CONTACT ADMIN | 🙋‍♂ ID: NULL  | 🔜 Exp: 2024-09-26 "
 #EXTM3U vod_library="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/vodmalay, https://raw.githubusercontent.com/Justryuz/TV/refs/heads/main/HBOGO%20Asia.html" refresh="1440" 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/refs/heads/main/epg.xml, https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml, https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml, https://raw.githubusercontent.com/imanawesome2010/epg/refs/heads/main/astro_epg.xml, https://github.com/imanawesome2010/epg/blob/main/indonesia.xml" refresh="1440" max-conn="1" refresh="24"

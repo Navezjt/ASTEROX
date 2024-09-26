@@ -1,10 +1,13 @@
 #EXTM3U billed-msg="⚙️ CHANNEL WILL BE DOWN .. PLEASE CONTACT ADMIN | 🙋‍♂ ID: NULL  | 🔜 Exp: 2024-09-26 "
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml"refresh="1440" max-conn="1" refresh="24" vod_library="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/main/vodmalay, https://raw.githubusercontent.com/Justryuz/TV/refs/heads/main/HBOGO%20Asia.html" refresh="1440" 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/refs/heads/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440"
+
+
 
  
 ###########################################################################SPORTS################################################################################

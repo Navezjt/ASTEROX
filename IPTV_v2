@@ -192,12 +192,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" group-title="🇲🇾 SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV HD 🇮🇩
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" group-title="🇲🇾 SPORTS" tvg-logo="https://cms.cignal.tv/Upload/Images//spotv_cs6-ai.png",SPOTV HD 🇮🇩 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
-#EXTINF:0 tgv-id=SPOTV2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/qWrg-PcfzEqD7aELRO9UAHkyMhk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="🇲🇾 SPORTS", SPOTV HD 2 🇮🇩
+#EXTINF:0 tgv-id=SPOTV2.id" tvg-name="SPOTV HD" tvg-logo="https://thumbor.prod.vidiocdn.com/qWrg-PcfzEqD7aELRO9UAHkyMhk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="🇲🇾 SPORTS", SPOTV HD 2 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd

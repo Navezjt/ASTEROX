@@ -1088,6 +1088,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="🇲🇾 MOVIES" tvg-logo="https://telegra.ph/file/0c41a0b455c9348edb392.png" tvg-id="7.astro",FREE MOVIE
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemovies-dash-sooka-sooka/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="HITSMovies" tvg-name="Hits Movies HD" group-title="🇲🇾 MOVIES" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HitsM.png",HITS MOVIES
@@ -1192,6 +1197,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LcKnYXveKrABNu5onFbXiQ", "kid":"LRPIFN9KDCzkiLLtoFLXEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="🇲🇾 DOCUMENTARY" tvg-logo="https://telegra.ph/file/ef2daa3ec829e54a6e13d.png" tvg-id="5.astro",PET CLUB
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-dash-sooka/index.mpd
 
 #EXTINF:-1 tvg-id="AFN" tvg-name=Asian Food Network HD" group-title="🇲🇾 DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" ch-number="709",709 Asian Food Network (MY)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1299,6 +1309,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="🇲🇾 KIDS" tvg-logo="https://telegra.ph/file/0a1e0b802beb7be122f38.png" tvg-id="4.astro",JELLY JAM WORLD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-jellyjam-dash-sooka-test-sooka/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash

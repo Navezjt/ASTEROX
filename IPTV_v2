@@ -108,6 +108,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 #EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="🇲🇾 SPORTS",AstroSuperSport Uᴴᴰ (TEST)
 https://7pal.short.gy/astrouhd
 
+#EXTINF:-1 tvg-id="MUTV" tvg-name="MU TV" tvg-logo="https://raw.githubusercontent.com/Pahlawan85/ASTEROX/refs/heads/main/download.jpg" group-title="🇲🇾 SPORTS",MUTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:https://www.tvmalaysia.live
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
